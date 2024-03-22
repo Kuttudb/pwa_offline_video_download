@@ -6,12 +6,12 @@ var videoList = [
     {
         id: 1,
         title: "step one",
-        src: "video/v2.mp4"
+        src: "https://malluflix.onrender.com/2UP/550672/Shirley.2024.1080p.NF.WEBRip.DDP5.1.x265.10bit-GalaxyRG2.mkv"
     },
     {
         id: 2,
         title: "step two",
-        src: "video/v2.mp4"
+        src: "https://file-examples.com/wp-content/storage/2017/04/file_example_MP4_480_1_5MG.mp4"
     },
     {
         id: 3,
